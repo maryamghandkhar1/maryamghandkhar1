@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maryamghandkhar1
 - 👀 I’m interested in tennis 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+
 
 <!---
 maryamghandkhar1/maryamghandkhar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
